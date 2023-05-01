@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J83",
+  "range": "'スポットデータ'!A1:J81",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -18,22 +18,13 @@
       "2022/05/11 14:46:34",
       "オフィス",
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.874083",
-      "139.655129",
-      "まごころ浦和元町",
-      "048-885-5700",
-      "",
-      "mago_motomachi",
-      "https://geolonia.com"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.898499",
       "139.62471",
       "金子歯科診療所",
-      "048-851-8464"
+      "048-851-8464",
+      "",
+      "mago_motomachi",
+      "https://geolonia.com"
     ],
     [
       "",
@@ -115,15 +106,6 @@
       "139.631927",
       "居宅介護支援事業所　こころ",
       "048-678-1953"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.880535",
-      "139.628067",
-      "アカンパニー",
-      "050-3133-4915"
     ],
     [
       "",
